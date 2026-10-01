@@ -1,0 +1,32 @@
+{
+  "n": 180,
+  "acc": 0.8611111111111112,
+  "top3": 0.9722222222222222,
+  "top_confusions(count,true,pred)": [
+    [
+      2,
+      "168.Kentucky_Warbler",
+      "200.Common_Yellowthroat"
+    ],
+    [
+      2,
+      "135.Bank_Swallow",
+      "076.Dark_eyed_Junco"
+    ],
+    [
+      2,
+      "040.Olive_sided_Flycatcher",
+      "135.Bank_Swallow"
+    ],
+    [
+      2,
+      "005.Crested_Auklet",
+      "023.Brandt_Cormorant"
+    ],
+    [
+      1,
+      "168.Kentucky_Warbler",
+      "156.White_eyed_Vireo"
+    ]
+  ]
+}

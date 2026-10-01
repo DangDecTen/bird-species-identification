@@ -1,0 +1,8 @@
+# data (too big / reproducible from seed + manifest)
+data/splits/
+# checkpoints (keep final .tflite, labels.txt, model_config.json)
+models/*.keras
+# python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/

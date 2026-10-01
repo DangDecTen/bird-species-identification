@@ -1,0 +1,2 @@
+timestamp,run_name,backbone,augment,lr,batch_size,dropout,img_size,epochs_run,val_loss,val_acc,val_top3,test_acc,test_top3
+2026-10-01T11:21:52,b0_mnv3small_frozen,mobilenetv3small,True,0.001,32,0.2,224,30,0.4224,0.8663,0.9733,0.8611,0.9722

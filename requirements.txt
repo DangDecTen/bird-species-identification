@@ -1,0 +1,9 @@
+# Use Python 3.11 or 3.12 locally (TensorFlow has no Python 3.14 wheels).
+# On Colab, TensorFlow/Keras are preinstalled; only `pip install split-folders` is needed.
+tensorflow>=2.16
+numpy
+pandas
+scikit-learn
+matplotlib
+pillow
+split-folders
